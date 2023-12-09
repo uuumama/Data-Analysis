@@ -1,1 +1,3 @@
 # UnemploymentRates
+
+In this project, the primary objective was to uncover nuanced patterns and insights within unemployment rates across different age groups and genders. By meticulously cleaning and reshaping the raw data, the focus shifted toward revealing distinct trends in overall, male, and female unemployment rates over time. The transformation of the data facilitated a more granular examination, unveiling subtle variations in employment dynamics. The ultimate goal was to distill these findings into an interactive Tableau dashboard, enabling users to dynamically explore and understand the intricate relationships between age, gender, and unemployment. 
