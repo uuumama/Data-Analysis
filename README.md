@@ -8,7 +8,7 @@
 ### Projects
 
 ##### [20+ Unemployment Rates](https://github.com/uuumama/PORTFOLIO/tree/main/Unemployment%20Rates)
-Code: 
+Code: [nojob.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Unemployment%20Rates/nojob.ipynb)
 
 Dataset Description: The dataset consists of the breakdown of US unemployment rates based on gender and age from 1948 to 2023. (kaggle dataset sources FRED)
 
