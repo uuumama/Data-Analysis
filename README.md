@@ -1,6 +1,6 @@
 # WELCOME
 
-#### Hello! In my portfolio, I embark on a journey of exploration and growth, driven by a passion for uncovering hidden insights within complex datasets. As an aspiring data scientist, I aim to cultivate a deep understanding of diverse analytical techniques and methodologies, leveraging them to unravel nuanced patterns and dynamics. 
+#### Hello! In my portfolio, I explore complex datasets, aiming to uncover hidden insights as an aspiring data scientist. My focus is on cultivating a deep understanding of diverse analytical techniques to unravel nuanced patterns and dynamics. 
 
 ---
 
