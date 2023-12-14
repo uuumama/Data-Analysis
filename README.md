@@ -12,6 +12,6 @@ Code: [nojob.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Unemployment%
 
 Dataset Description: The dataset consists of the breakdown of US unemployment rates based on gender and age from 1948 to 2023. (Kaggle dataset sources FRED)
 
-Objective: As a recent 22-year-old graduate navigating the dynamic job market, I explored the unemployment landscape intending to understand better whether individuals around my age group, specifically recent graduates, faced unemployment. Considering factors such as gender and age ranges, I aim to uncover insights that contribute to a more comprehensive perspective on the contemporary job market in comparison to previous generations. This exploration is motivated by genuine curiosity, fostering a connection between personal observations and broader socioeconomic trends.
+Objective: As a recent 22-year-old graduate navigating the dynamic job market, I explored the unemployment landscape intending to better understand whether individuals around my age group, specifically recent graduates, faced unemployment. Considering factors such as gender and age ranges, I aim to uncover insights that contribute to a more comprehensive perspective on the contemporary job market in comparison to previous generations. This exploration is motivated by genuine curiosity, fostering a connection between personal observations and broader socioeconomic trends.
 
 [Tableau Public Link](https://public.tableau.com/views/unemploymentrates_17021707273780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
