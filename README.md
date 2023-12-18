@@ -2,7 +2,6 @@
 
 #### Hello! In my portfolio, I explore complex datasets, aiming to uncover hidden insights as an aspiring data scientist. My focus is on cultivating a deep understanding of diverse analytical techniques to unravel nuanced patterns and dynamics. 
 
----
 
 
 ## Projects
