@@ -17,8 +17,8 @@ Objective: As a recent 22-year-old graduate navigating the dynamic job market, I
 
 <br>
 
-### [Gun Violence](https://github.com/uuumama/PORTFOLIO/tree/main/Gun%20Violence)
-Code and Visualizations: [gv.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Gun%20Violence/gv.ipynb)
+### [Mass Shootings in 2023](https://github.com/uuumama/PORTFOLIO/tree/main/Mass%20Shootings%202023)
+Code and Visualizations: [gv.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Mass%20Shootings%202023/gv.ipynb)
 
 Dataset Description: The dataset entails mass shooting violence from January 1, 2023, to December 15, 2023. Sourced from the Gun Violence Archive (GVA).
 
