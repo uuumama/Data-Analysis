@@ -22,4 +22,4 @@ Code and Visualizations: [gv.ipynb](https://github.com/uuumama/PORTFOLIO/blob/ma
 
 Dataset Description: The dataset entails mass shooting violence from January 1, 2023, to December 15, 2023. Sourced from the Gun Violence Archive (GVA).
 
-Objective: Highlight the instances of gun violence as a result of mass shootings within the U.S. "Mass Shootings: The Role of the Media in Promoting Generalized Imitation" states that as of 2015, a mass shooting results in the death of at least four people every 12.5 days; however, these common incidents are not reported in the news cycle as frequently.
+Objective: Highlight the instances of gun violence as a result of mass shootings within the U.S. "Mass Shootings: The Role of the Media in Promoting Generalized Imitation" states that as of 2015, a mass shooting results in the death of at least four people every 12.5 days; however, these common incidents are not reported in the news as frequently as they occur. I have displayed the casualties associated with mass shootings as well as created a predictive model depicting the number of victims injured for a suspect to be arrested.
