@@ -5,9 +5,9 @@
 ---
 
 
-### Projects
+## Projects
 
-#### [20+ Unemployment Rates](https://github.com/uuumama/PORTFOLIO/tree/main/Unemployment%20Rates)
+### [20+ Unemployment Rates](https://github.com/uuumama/PORTFOLIO/tree/main/Unemployment%20Rates)
 Code: [nojob.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Unemployment%20Rates/nojob.ipynb)
 
 Dataset Description: The dataset consists of the breakdown of US unemployment rates based on gender and age from 1948 to 2023. (Kaggle dataset sources FRED)
@@ -16,10 +16,9 @@ Objective: As a recent 22-year-old graduate navigating the dynamic job market, I
 
 [Tableau Public Link](https://public.tableau.com/views/unemploymentrates_17021707273780/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-___
+<br>
 
-
-#### [Gun Violence](https://github.com/uuumama/PORTFOLIO/tree/main/Gun%20Violence)
+### [Gun Violence](https://github.com/uuumama/PORTFOLIO/tree/main/Gun%20Violence)
 Code and Visualizations: [gv.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Gun%20Violence/gv.ipynb)
 
 Dataset Description: The dataset entails mass shooting violence from January 1, 2023, to December 15, 2023. Sourced from the Gun Violence Archive (GVA).
