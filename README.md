@@ -1,10 +1,7 @@
-# WELCOME
 
-#### Hello! In my portfolio, I explore complex datasets, aiming to uncover hidden insights as an aspiring data scientist. My focus is on cultivating a deep understanding of diverse analytical techniques to unravel nuanced patterns and dynamics. 
+### Hi! Below are projects driven by curiosity in my determination to uncover valuable insights.
+<br>
 
-
-
-## Projects
 
 ### [20+ Unemployment Rates](https://github.com/uuumama/PORTFOLIO/tree/main/Unemployment%20Rates)
 Code: [nojob.ipynb](https://github.com/uuumama/PORTFOLIO/blob/main/Unemployment%20Rates/nojob.ipynb)
